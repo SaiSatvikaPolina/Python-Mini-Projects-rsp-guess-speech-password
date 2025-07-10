@@ -6,9 +6,13 @@ A curated collection of beginner-to-intermediate Python mini projects designed t
 This repository contains five standalone Python mini projects:
 
 1.Rock Paper Scissors
+
 2.Number Guessing Game
+
 3.Speech to Text
+
 4.Text to Speech
+
 5.Password Generator
 
 Each project is designed to reinforce different core programming concepts, such as control flow, user input, randomization, working with external libraries, and more. These projects are ideal for beginners and those looking to strengthen their Python fundamentals.
