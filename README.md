@@ -24,4 +24,6 @@ Each project is designed to reinforce different core programming concepts, such 
 
 **Speech to Text:** Convert spoken words to text using Python’s speech recognition libraries.
 
+**Text to Speech:** A Python project that converts written text into spoken audio using text-to-speech libraries.
+
 **Password Generator:** Instantly generate secure, random passwords with customizable length and character sets.
